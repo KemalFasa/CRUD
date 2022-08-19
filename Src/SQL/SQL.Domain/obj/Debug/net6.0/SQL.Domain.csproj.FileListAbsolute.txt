@@ -1,0 +1,15 @@
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\bin\Debug\net6.0\SQL.Domain.exe
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\bin\Debug\net6.0\SQL.Domain.deps.json
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\bin\Debug\net6.0\SQL.Domain.runtimeconfig.json
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\bin\Debug\net6.0\SQL.Domain.dll
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\bin\Debug\net6.0\SQL.Domain.pdb
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.csproj.AssemblyReference.cache
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.AssemblyInfoInputs.cache
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.AssemblyInfo.cs
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.csproj.CoreCompileInputs.cache
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.dll
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\refint\SQL.Domain.dll
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.pdb
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\SQL.Domain.genruntimeconfig.cache
+D:\doc\baru\Udemy\CRUD\Src\SQL\SQL.Domain\obj\Debug\net6.0\ref\SQL.Domain.dll
